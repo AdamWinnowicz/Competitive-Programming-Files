@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/Adasiu/OneDrive/Desktop/Headers"
+                "c:/Users/Adasiu/OneDrive/Desktop/Competitive Programming/Headers"
             ],
             "defines": [
                 "_DEBUG",
