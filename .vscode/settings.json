@@ -67,7 +67,10 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "string_view": "cpp",
+        "flat_map": "cpp",
+        "flat_set": "cpp"
     },
     "intersystems.servers": {
         "iris": {
